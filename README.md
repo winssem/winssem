@@ -11,7 +11,7 @@
 -  I'm currently working on **Bug Bounty Programs**<br>
 -  I'm currently learning **Blockchain Security & Smart Contract Auditing**<br>
 -  I'm looking to collaborate on **Security Research**<br>
--  Ask me about **IDOR, Deserialization, Cryptography, Bypass,**
+-  Ask me about **IDOR, GraphQL Exploitation, Incomplete Patch Analysis, PHP Deserialization, Smart Contract Auditing, Signature Malleability, RCE via Gadget Chains, Authorization Bypass**
 
 
 ## Socials:
