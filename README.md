@@ -2,7 +2,7 @@
 <h3 align="center">Bug Bounty Hunter | Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nothing+Is+Impossible;Security+Researcher;Bug+Bounty+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=500&lines=Nothing+Is+Impossible" />
 </p>
 
 ---
